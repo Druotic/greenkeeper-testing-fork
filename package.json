@@ -1,5 +1,5 @@
 {
-  "name": "greenkeeper-testing",
+  "name": "greenkeeper-testing-fork",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Druotic/greenkeeper-testing.git"
+    "url": "git+https://github.com/Druotic/greenkeeper-testing-fork.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Druotic/greenkeeper-testing/issues"
+    "url": "https://github.com/Druotic/greenkeeper-testing-fork/issues"
   },
-  "homepage": "https://github.com/Druotic/greenkeeper-testing#readme",
+  "homepage": "https://github.com/Druotic/greenkeeper-testing-fork#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "greenkeeper-dep-test": "4.0.2"
